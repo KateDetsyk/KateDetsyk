@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @KateDetsyk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi, I’m Kate Detsyk
+- I'm Bachalor of Computer Scienses
+- Now, I'm looking for a job where I can upgrade and apply my skills
+## 💙 The technologies I’m interested in 
+## 🌱 I’m currently learning 
+
 
 <!---
 KateDetsyk/KateDetsyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
