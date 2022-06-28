@@ -2,7 +2,6 @@
 - I'm Bachalor of Computer Scienses
 - Now, I'm looking for a job where I can upgrade and apply my skills
 ## 💙 The technologies I’m interested in 
-<img src="images/flutter.png" alt="drawing" style="width:200px;"/>
 <img src="images/python.png" alt="drawing" style="width:100px;"/>
 <img src="images/c.png" alt="drawing" style="width:100px;"/>
 
