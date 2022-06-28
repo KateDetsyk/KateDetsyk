@@ -1,12 +1,13 @@
 ## 👋 Hi, I’m Kate Detsyk
 - I'm Bachalor of Computer Scienses
-- Now, I'm looking for a job 
-## 💙 The technologies I’m interested in 
+- Looking for a job 
 
+## 💙 The technologies I like 
+<img src="images/tech1.png" alt="drawing" style="height:100px;"/>
 
 
 ## 🌱 I’m currently learning 
-
+<img src="images/tech2.png" alt="drawing" style="width:100px;"/>
 
 <!---
 KateDetsyk/KateDetsyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
