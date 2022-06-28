@@ -1,5 +1,5 @@
-## 👋 Hi, I’m Kate Detsyk
-- I'm Bachalor of Computer Scienses
+## 👋 Hi, I’m Kate 
+- I'm Bachalor of Computer Science
 - Looking for a job 
 
 ## 💙 The technologies I like 
