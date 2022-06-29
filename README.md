@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Kate 
-- I'm Bachalor of Computer Science
+- Bachalor of Computer Science
 - Amateur 2D artist
 - Looking for a job 
 
